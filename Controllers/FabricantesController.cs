@@ -16,8 +16,9 @@ namespace HenriquedePaula.Controllers
         // GET: Fabricantes
         public ActionResult Index()
         {
-            return View(context.Fabricantes.OrderBy
-                (c => c.Nome));
+            var list = context.Fabricantes.OrderBy(c => c.Nome).ToList();
+            return View(list);
+
         }
 
         public ActionResult Create()

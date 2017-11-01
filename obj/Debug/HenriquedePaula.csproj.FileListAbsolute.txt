@@ -78,3 +78,5 @@ C:\Users\usuario\Documents\Visual Studio 2017\Projects\HenriquedePaula\Henriqued
 C:\Users\usuario\Documents\Visual Studio 2017\Projects\HenriquedePaula\HenriquedePaula\bin\EntityFramework.SqlServer.dll
 C:\Users\usuario\Documents\Visual Studio 2017\Projects\HenriquedePaula\HenriquedePaula\bin\EntityFramework.xml
 C:\Users\usuario\Documents\Visual Studio 2017\Projects\HenriquedePaula\HenriquedePaula\bin\EntityFramework.SqlServer.xml
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\HenriquedePaula\HenriquedePaula\bin\Oracle.ManagedDataAccess.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\HenriquedePaula\HenriquedePaula\bin\Oracle.ManagedDataAccess.EntityFramework.dll
